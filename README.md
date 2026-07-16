@@ -1,6 +1,6 @@
 # D-mart-Sales-Performance-Dashboard-Power-BI-
 
-📌 Project Overview
+📌 **Project Overview**
 
 An interactive Power BI dashboard built to analyze Dmart’s sales performance, customer behavior, and operational efficiency. The dashboard transforms raw data into actionable insights, enabling smarter business decisions.
 
