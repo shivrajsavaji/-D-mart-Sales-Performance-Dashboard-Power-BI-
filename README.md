@@ -4,73 +4,73 @@
 
 An interactive Power BI dashboard built to analyze Dmart’s sales performance, customer behavior, and operational efficiency. The dashboard transforms raw data into actionable insights, enabling smarter business decisions.
 
-🚀 Key Highlights
+🚀 **Key Highlights**
 
-📈 Total Sales: ₹18.39M
-🛒 Total Items Sold: 25K
-⭐ Average Rating: 3.0
-📊 Tracks sales trends, product performance, and customer patterns
+ 📈 Total Sales: ₹18.39M
+ 🛒 Total Items Sold: 25K
+ ⭐ Average Rating: 3.0
+ 📊 Tracks sales trends, product performance, and customer patterns
 
-⚡ Dashboard Features
+⚡ **Dashboard Features**
 
 🎯 KPI Metrics
 
-Total Sales
-Average Sales
-Number of Items
-Customer Ratings
+    *Total Sales
+    Average Sales
+    Number of Items
+    Customer Ratings
 
-🔍 Interactive Filters
+🔍 **Interactive Filters**
 
-City
-Product Name
-Marketing Channels
+      City
+      Product Name
+      Marketing Channels
 
-📅 Trend Analysis
+📅**Trend Analysis**
 
-Year-wise sales performance to track growth
+      Year-wise sales performance to track growth
 
-🏷️ Product Segmentation
+🏷️ **Product Segmentation**
 
-Local
-Branded
-Imported
+      Local
+      Branded
+      Imported
 
-💳 Subscription Insights
+💳 **Subscription Insights**
 
-Revenue distribution based on subscription types
+      Revenue distribution based on subscription types
 
-🚚 Logistics Analysis
+🚚 **Logistics Analysis**
 
-Shipment mode distribution
+      Shipment mode distribution
 
-💰 Payment Status Breakdown
+💰 **Payment Status Breakdown**
 
-Paid | Pending | Cancelled | Returned
+      Paid | Pending | Cancelled | Returned
 
-🏆 Top Products Analysis
+🏆 **Top Products Analysis**
 
-Best-performing products using bar charts
+      Best-performing products using bar charts
 
-🎨 Dashboard Design
-Clean and modern UI with Dmart-inspired green theme
-Interactive visuals with drill-down capabilities
-Well-structured layout for easy navigation
+🎨 **Dashboard Design**
+      Clean and modern UI with Dmart-inspired green theme.
+      Interactive visuals with drill-down capabilities.
+      Well-structured layout for easy navigation.
 
-💡 Business Use Cases
-Identify high-performing products and categories
-Understand customer buying behavior
-Monitor sales trends and seasonal patterns
-Improve logistics and payment efficiency
-Support data-driven strategic decisions
+💡 **Business Use Cases**
+      Identify high-performing products and categories
+      Understand customer buying behavior
+      Monitor sales trends and seasonal patterns
+      Improve logistics and payment efficiency
+      Support data-driven strategic decisions
 
-🛠️ Tools & Technologies
-Power BI
-DAX (Data Analysis Expressions)
-Data Modeling
+🛠️ **Tools & Technologies**
+      Power BI
+      DAX (Data Analysis Expressions)
+      Data Modeling
 
-📁 Project File
-Dmart Dashboard.pbix – Interactive Power BI dashboard
+📁 **Project File**
+      Dmart Dashboard.pbix – Interactive Power BI dashboard
 
-🏁 Conclusion
+🏁 **Conclusion**
 This dashboard showcases the power of data visualization in simplifying complex datasets and delivering meaningful business insights through an intuitive and interactive interface.
