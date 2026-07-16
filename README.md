@@ -14,6 +14,7 @@ An interactive Power BI dashboard built to analyze Dmart’s sales performance, 
 ⚡ **Dashboard Features**
 
 🎯 KPI Metrics
+
     Total Sales
     Average Sales
     Number of Items
